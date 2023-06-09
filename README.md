@@ -5,6 +5,7 @@
 کانال ها رو به دو دسته فعال و غیر فعال تقسیم کردم که بهتر بتونید تصمیم بگیرید برید سراغ کدوما:
 1. [فعال](#active-channels)
 2. [غیرفعال](#inactive-channels)
+
 |    | Channel Name                             | Channel URL                                             | Active |
 |----|------------------------------------------|---------------------------------------------------------|--------|
 | 1  | PhiloLearn                               | [Link](https://www.youtube.com/@PhiloLearn)             |        |
@@ -21,6 +22,7 @@
 | 12 | Amir Motahari                            | [Link](https://www.youtube.com/c/AmirMotahari)          |        |
 | 13 | Maryam Sadeghi                           | [Link](https://www.youtube.com/@MaryamSadeghiPython)    |        |
 | 14 | Creativity House                         | [Link](https://www.youtube.com/@CreativityHousee)       |        |
+
 ## Inactive channels
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
 - [Sohrab Behdani](https://www.youtube.com/@sohrabbehdani)
