@@ -5,25 +5,22 @@
 کانال ها رو به دو دسته فعال و غیر فعال تقسیم کردم که بهتر بتونید تصمیم بگیرید برید سراغ کدوما:
 1. [فعال](#active-channels)
 2. [غیرفعال](#inactive-channels)
-
-## Active channels
-- [Jadi Mirmirani](https://www.youtube.com/@JadiMirmirani)
-- [PhiloLearn](https://www.youtube.com/@PhiloLearn)
-- [shahriaarrr](https://www.youtube.com/@shahriaarrr)
-- [Ramin Saljoughinejad](https://www.youtube.com/@Ramin-S)
-- [DevOps Hobbies](https://www.youtube.com/@devopshobbies)
-- [MicroFrontend](https://www.youtube.com/@MicroFrontend)
-- [TorhamDev : Tech With Tori](https://www.youtube.com/@techwithtori)
-- [NABEGHEHA](https://www.youtube.com/@Nabegheha)
-- [Simple as nothing](https://www.youtube.com/@Simpleasnothing)
-- [Dr. Yousef Rastegari](https://www.youtube.com/@dr.yousefrastegari)
-- [Morteza Bashsiz](http://youtube.com/@MortezaBashsiz)
-- [Amir Motahari](https://www.youtube.com/c/AmirMotahari)
-- [Maryam Sadeghi](https://www.youtube.com/@MaryamSadeghiPython)
-- [Creativity House](https://www.youtube.com/@CreativityHousee)
-- [Erfan Mola](https://www.youtube.com/@erfanmola)
-- [mr Robot](https://www.youtube.com/@imrrobot)
-
+|    | Channel Name                             | Channel URL                                             | Active |
+|----|------------------------------------------|---------------------------------------------------------|--------|
+| 1  | PhiloLearn                               | [Link](https://www.youtube.com/@PhiloLearn)             |        |
+| 2  | shahriaarrr                              | [Link](https://www.youtube.com/@shahriaarrr)            |        |
+| 3  | Jadi Mirmirani                           | [Link](https://www.youtube.com/@JadiMirmirani)          |        |
+| 4  | Ramin Saljoughinejad                     | [Link](https://www.youtube.com/@Ramin-S)                |        |
+| 5  | DevOps Hobbies                           | [Link](https://www.youtube.com/@devopshobbies)          |        |
+| 6  | MicroFrontend                            | [Link](https://www.youtube.com/@MicroFrontend)          |        |
+| 7  | TorhamDev : Tech With Tori               | [Link](https://www.youtube.com/@techwithtori)           |        |
+| 8  | NABEGHEHA                                | [Link](https://www.youtube.com/@Nabegheha)              |        |
+| 9  | Simple as nothing                        | [Link](https://www.youtube.com/@Simpleasnothing)        |        |
+| 10 | Dr. Yousef Rastegari                     | [Link](https://www.youtube.com/@dr.yousefrastegari)     |        |
+| 11 | Morteza Bashsiz                          | [Link](http://youtube.com/@MortezaBashsiz)              |        |
+| 12 | Amir Motahari                            | [Link](https://www.youtube.com/c/AmirMotahari)          |        |
+| 13 | Maryam Sadeghi                           | [Link](https://www.youtube.com/@MaryamSadeghiPython)    |        |
+| 14 | Creativity House                         | [Link](https://www.youtube.com/@CreativityHousee)       |        |
 ## Inactive channels
 - [Seyed Mahdi](https://www.youtube.com/@seyedmahdi4)
 - [Sohrab Behdani](https://www.youtube.com/@sohrabbehdani)
